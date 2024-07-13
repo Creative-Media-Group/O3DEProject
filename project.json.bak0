@@ -1,0 +1,45 @@
+{
+    "project_name": "O3DEProject",
+    "version": "1.0.0",
+    "project_id": "{7142EB0A-9CAB-4EAC-92B8-A860202DEE3B}",
+    "origin": "The primary repo for O3DEProject goes here: i.e. http://www.mydomain.com",
+    "license": "What license O3DEProject uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "O3DEProject",
+    "summary": "A short description of O3DEProject.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "O3DEProject"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "O3DEProject",
+    "gem_names": [
+        "O3DEProject",
+        "Atom",
+        "AudioSystem",
+        "AWSCore",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox"
+    ]
+}
